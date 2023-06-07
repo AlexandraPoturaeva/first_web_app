@@ -124,3 +124,4 @@ dmypy.json
 
 .idea/
 config.py
+*.db
